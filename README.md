@@ -2,6 +2,10 @@
 
 A premium, white-label health insurance enrollment funnel and landing page.
 
+## 🌐 Live Site
+
+**Visit the live site:** [https://thewaxsculptor.github.io/FrandyInsurance/](https://thewaxsculptor.github.io/FrandyInsurance/)
+
 ## 🚀 Features
 
 - **Automated Lead Capture**: Smart modal popup after 3 seconds to drive phone consultations.
